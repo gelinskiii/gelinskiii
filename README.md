@@ -2,7 +2,7 @@
 - :seedling: Meu nome e Joao Guilherme Gelinski
 - :seedling: Tenho 15 anos
 - :seedling: Faço academia, invisto
-- :Bolsonaro 2022
+-      Bolsonaro 2022
 
  
 ![](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white)
